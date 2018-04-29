@@ -2,10 +2,6 @@
 
 ## Introduction
 
-This is the skeleton code for the 2017 Fall ECE408 / CS483 course project.
-In this project, you will get experience with practical neural network artifacts, face the challenges of modifying existing real-world code, and demonstrate command of basic CUDA optimization techniques.
-Specifically, you will get experience with
-
 * Basic OS knowledge:
 
 1,Process states: New, Ready, Running, Waiting, Terminated. Process control block: process ID, process states, CPU register and Program counter, CPU scheduling information, memory management information, accounting information, I/O status information.
